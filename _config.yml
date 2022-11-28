@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Kedar Tatwawadi # the website title (if blank, full name will be used instead)
 first_name: Kedar
 middle_name: 
 last_name: Tatwawadi
@@ -228,8 +228,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Tatwawadi]
+  first_name: [Kedar]
 
   style: apa
   locale: en
