@@ -14,7 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-
 Hello! I am a research engineer at Apple (Video Engineering). I like to work on problems at the intersection of computer vision, information theory and data compression. 
 
 ## Education
