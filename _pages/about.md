@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>WaveOne Inc </a>
+subtitle: <a href='#'> ML, Information Theory, Data Compression </a>
 profile:
   align: right
   image: prof_pic.png
